@@ -187,6 +187,4 @@ Through this project, I gained practical experience with:
 
 **Shubham Singh**
 =======
-# Smart-Attendance-System-Using-Face-Recognition
-A Python-based Smart Attendance System that uses OpenCV, Haar Cascade, and LBPH face recognition to register students and mark attendance through a webcam. Attendance records are stored in CSV files.
->>>>>>> 4995755e436aafbbd2d235d759eb0a4c6afc34e6
+
